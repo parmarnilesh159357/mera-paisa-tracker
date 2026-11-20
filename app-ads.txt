@@ -1,0 +1,9 @@
+# app-ads.txt — Mera Paisa Tracker
+# Is file ko us website ke root par host karo jahan privacy policy hai
+# (jaise https://example.com/app-ads.txt), tabhi AdMob earning poori milegi.
+# Bina app-ads.txt ke AdMob earning kaat leta hai.
+#
+# Publisher ID (19 Nov 2026): AdMob > Settings > Account information >
+# Publisher ID — Mera Paisa Tracker, pub-7305990267188840.
+
+google.com, pub-7305990267188840, DIRECT, f08c47fec0942fa0
